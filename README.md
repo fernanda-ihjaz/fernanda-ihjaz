@@ -1,8 +1,8 @@
-<div align="center">
+<div>
 
-# 💻 Fernanda Ihjaz 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=24&duration=4000&pause=1000&color=E915F7&random=false&width=435&height=40&lines=Hi%2C+I'm+Fernanda+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-I'm currently learning to create websites • Studying Systems Analysis and Development at the University of Passo Fundo • Brazil
+I'm currently learning to create websites • Studying Systems Analysis and Development at the University of Passo Fundo
 
   <div> 
   <a href="https://www.linkedin.com/in/fernanda-ihjaz" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 5px;"></a> 
