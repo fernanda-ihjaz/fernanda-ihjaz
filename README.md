@@ -1,14 +1,20 @@
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=24&pause=1000&color=00FFBF&random=false&width=435&lines=Hi%2C+I'm+Fernanda+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press Start 2P&size=20&pause=1000&color=0091FF&random=false&width=435&lines=Hi%2C+I'm+Fernanda+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
 
   I'm currently learning to create websites • Studying Systems Analysis and Development at the University of Passo Fundo 
 
-  <div> 
+
+  <div>
+
+  ![Visitor count](https://komarev.com/ghpvc/?username=fernanda-ihjaz&color=0091FF&style=for-the-badge&label=Visitor+Count)
+
   <a href="https://www.linkedin.com/in/fernanda-ihjaz" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 5px;"></a> 
     <a href = "mailto:205657@upf.br"><img src="https://img.shields.io/badge/-send an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 5px;"></a>
+
   </div>
+  
 
 ## Interests
 
@@ -28,4 +34,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+
 </div>
