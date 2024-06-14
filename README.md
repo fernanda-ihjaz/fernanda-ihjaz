@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Fernanda Ihjaz 👋🏻
+# 💻 Fernanda Ihjaz 👋
 
 I'm currently learning to create websites • Studying Systems Analysis and Development at the University of Passo Fundo • Brazil
 
