@@ -15,19 +15,31 @@
 
 ## Interests
 
-  • I like playing Minecraft and cooking \
+  • I like playing minecraft and cooking \
   • I love volleyball and hiking \
-  • I'm listening to Lofi while programming 🎶 \
+  • I'm listening to lofi while programming 🎶 \
   • I enjoy using and discovering new technologies 💻
 
 ## Languages/Tools I use
 
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> 
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFF00" alt="Python logo" title="Python" height="25" /> 
+<img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=009900" alt="C logo" title="C" height="25" /> 
+<img src="https://img.shields.io/badge/C++-282C34?logo=C&logoColor=3333FF" alt="C++ logo" title="C++" height="25" /> 
+
+
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=FF6600" alt="HTML5 logo" title="HTML5" height="25" /> 
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> 
 <a name="learning-next"></a>
+
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/SQL-282C34?logo=sql&logoColor=007ACC" alt="SQL" title="SQL" height="25" />
+
+
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=CC33CC" alt="Linux logo" title="Linux" height="25" /> 
+<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=FFFFFF" alt="Windows logo" title="Windows" height="25" /> 
+
 
 ## What I am currently learning / improving on
 
@@ -43,6 +55,12 @@
 
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fernanda-ihjaz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fernanda-ihjaz&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-ihjaz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## Where to find me
   <a href="https://www.linkedin.com/in/fernanda-ihjaz" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 5px;"></a> 
