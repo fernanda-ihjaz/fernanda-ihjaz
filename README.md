@@ -1,6 +1,6 @@
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=0091FF&random=false&width=435&lines=Hi%2C+I'm+Fernanda+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1000&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Fernanda+%F0%9F%91%8B;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
   I'm currently learning to create websites • Studying Systems Analysis and Development at the University of Passo Fundo 
@@ -9,9 +9,6 @@
   <div>
 
   ![Visitor count](https://komarev.com/ghpvc/?username=fernanda-ihjaz&color=0091FF&style=for-the-badge&label=Visitor+Count)
-
-  <a href="https://www.linkedin.com/in/fernanda-ihjaz" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 5px;"></a> 
-    <a href = "mailto:205657@upf.br"><img src="https://img.shields.io/badge/-send an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 5px;"></a>
 
   </div>
   
@@ -25,15 +22,31 @@
 
 ## Languages/Tools I use
 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 5px;"/> <br>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 5px;" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 5px;" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> 
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> 
+<a name="learning-next"></a>
+
+## What I am currently learning / improving on
+
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /> 
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /> 
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+
+## What I am interested in learning at some point
+
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> 
+
+## Where to find me
+  <a href="https://www.linkedin.com/in/fernanda-ihjaz" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 5px;"></a> 
+  <a href = "mailto:205657@upf.br"><img src="https://img.shields.io/badge/-send an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 5px;"></a>
 
 
 </div>
