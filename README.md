@@ -54,7 +54,9 @@
 ## What I am interested in learning at some point
 
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=47A248" alt="Angular logo" title="Angular" height="25" />
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /> 
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fernanda-ihjaz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
@@ -64,7 +66,7 @@
 
 ## Where to find me
   <a href="https://www.linkedin.com/in/fernanda-ihjaz" target="_blank"><img src="https://img.shields.io/badge/-Follow me on LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 5px;"></a> 
-  <a href = "mailto:205657@upf.br"><img src="https://img.shields.io/badge/-send an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 5px;"></a>
+  <a href = "mailto:ihjazfer@gmail.com"><img src="https://img.shields.io/badge/-send an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 5px;"></a>
 
 
 </div>
