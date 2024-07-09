@@ -61,12 +61,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fernanda-ihjaz&theme=tokyonight&hide_border=true&card_width=400&hide_total_contributions=true)](https://git.io/streak-stats)<br>
 ![fernanda-ihjaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-ihjaz&theme=tokyonight&show_icons=true&hide_border=true&card_width=400&layout=compact)<br/>
 
-</div>
+
 
 
 ## Where to find me
