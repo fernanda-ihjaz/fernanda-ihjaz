@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=1C9CFF&width=435&lines=Hi%2C+I'm+Fernanda;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-I'm currently studying development for industrial automation • Studying Computer Science at the University of Passo Fundo
+Studying Computer Science at the University of Passo Fundo
 
   <div>
 
